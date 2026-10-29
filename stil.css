@@ -1,4 +1,4 @@
-:root{--bg:#fffaf5;--tekst:#2b2622;--svak:#6b625a;--aksent:#e0662f;--kort:#ffffff;--kant:#eadfd4}
+:root{--bg:#fffaf5;--tekst:#2b2622;--svak:#6b625a;--aksent:#b84d1c;--kort:#ffffff;--kant:#eadfd4}
 @media (prefers-color-scheme:dark){:root{--bg:#1c1917;--tekst:#f2ede8;--svak:#b3a89e;--aksent:#f08a55;--kort:#26221f;--kant:#3a332e}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--tekst);font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
